@@ -1,5 +1,4 @@
 #include<iostream>
-#include<vector>
 using namespace std;
 
 void FindCommonElement(int arr1[],int arr2[],int temp[],int m , int n , int& k)
